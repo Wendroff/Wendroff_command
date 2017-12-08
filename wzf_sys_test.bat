@@ -1,0 +1,1 @@
+@"E:\ProgramFiles\Anaconda2\envs\python36\python.exe" "E:\ProgramFiles\Wendroff_command\sys_test.py" %*
