@@ -1,0 +1,1 @@
+@"H:\Work\StandardCode\CPR\Post\READslurm\x64\Release\READslurm.exe" %*
