@@ -1,0 +1,1 @@
+@"E:\ProgramFiles\Anaconda2\envs\python36\python.exe" "H:\Work\StandardCode\CPR\Post\St_aver\St_aver.py" %*
